@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "telemetry",
+  "versions": [
+    {
+      "commit": "2975fcac06cb3ffa5872258669990f488547e0c1",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:11:37.801209+00:00"
+    }
+  ]
+}
